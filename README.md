@@ -1,3 +1,3 @@
 # **Counting Our Days**
 
-Dibuat sebagai final project phase 0 Hacktiv8 Batch 05 MCC
+Sebagai counter untuk mengetahui berapa hari yang tersisa dalam tahun ini, dan juga dilengkapi fitur generates quotes yang mungkin berguna sebagai penyemangat bagi para user yang mengakses web ini. Terima Kasih.
