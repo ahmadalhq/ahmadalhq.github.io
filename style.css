@@ -1,0 +1,131 @@
+/* style css */
+
+/* font-family: 'Lora', serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Jomolhari', serif; */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em 3em;
+    height: 50px;
+}
+
+#info {
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    height: 40px;
+}
+
+
+body {
+    background-image: url("./photos/background.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+    height: 100vh;
+}
+
+h2 {
+    align-items: center;
+    text-align: center;
+}
+
+#days {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Jomolhari', serif;
+}
+
+#timer {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+    height: 60px;
+    margin-bottom: 50px;
+    font-family: 'Lora', serif;
+}
+
+#todayMantra {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#mantra {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Jomolhari', serif;
+}
+
+#button {
+    size: 30px;
+    font-size: x-large;
+    font-weight: 20;
+    background-color: transparent;
+    box-shadow: transparent;
+    color: white;
+    border: transparent;
+    text-align: center;
+    border-color: transparent;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+#click {
+    size: 30px;
+    font-size: x-large;
+    font-weight: 20;
+    background-color: transparent;
+    box-shadow: transparent;
+    color: white;
+    border: transparent;
+    text-align: center;
+    border-color: transparent;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+footer {
+    justify-items: center;
+    justify-content: center;
+    position: static;
+    text-align: center;
+    font-size: small;
+    margin-bottom: 20 px;
+    margin-top: 250px;
+}
